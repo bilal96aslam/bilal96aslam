@@ -6,7 +6,7 @@
 - 📚 I enjoy learning and gaining experience from others in the tech community. Let's collaborate and grow together!
 - 📫 How to reach me: itsbilalaslamch@gmail.com
 
-![](https://github-readme-stats.vercel.app/api?username=bilal96aslam&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=bilal96aslam&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 # 💻 Languages and Tools:
 ![Android Studio](https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white)
